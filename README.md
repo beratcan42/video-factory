@@ -15,7 +15,7 @@ AI tabanlı video üretim workspace'i.
 
 - Claude
 - Remotion
-- Edge TTS
+- Edge TTS 
 
 ## Workflow
 
